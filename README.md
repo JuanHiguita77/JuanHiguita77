@@ -76,5 +76,5 @@
 </p>
 
 <div align="center"> 
-  <img height="200px" alt="side_sticker" src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Coding GIF" style="max-width: 100%; display: inline-block;">
 </div> 
