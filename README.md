@@ -11,7 +11,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Cloud Solutions, Scalable solutions.\
 ✍️ &nbsp;In my free time, I study the principal frameworks for Backend and Frontend for my best professional development.\
-✉️ &nbsp;You can shoot me an email at juanferhiguita65@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at juanyepeshiguita@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Summary](https://www.linkedin.com/in/juan-yepes-higuita-52a069324/) for more details about me. I'm open to feedback and suggestions!
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="300px" style="visibility:visible;max-width:100%;">
