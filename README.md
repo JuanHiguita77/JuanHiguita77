@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I am Currently Studying at Riwi as FullStack Developer.\
+🎓 &nbsp;I´m coder from Riwi as FullStack Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Cloud Solutions, Scalable solutions.\
 ✍️ &nbsp;In my free time, I study the principal frameworks for Backend and Frontend for my best professional development.\
