@@ -17,7 +17,6 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="300px" style="visibility:visible;max-width:100%;">
 
 ### 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typeScript-3178C6.svg?style=for-the-badge&logo=typeScript&logoColor=%23F7DF1E)&nbsp;
@@ -27,6 +26,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SCSS](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![SpringCloud](https://img.shields.io/badge/springcloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![SpringSecurity](https://img.shields.io/badge/springsecurity-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
@@ -37,9 +40,8 @@
 
 ### 🗃 &nbsp;Databases
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/mysql-406CD9.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
